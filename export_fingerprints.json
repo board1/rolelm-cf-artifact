@@ -1,0 +1,49 @@
+{
+  "model": "local counterfactual-DPO adaptation",
+  "files": {
+    "chat_template.jinja": {
+      "sha256": "ba03a121d097859c7b5b9cd03af99aafe95275210d2876f642ad9929a150f122",
+      "bytes": 389
+    },
+    "config.json": {
+      "sha256": "700688193b664ae1f52b01bcc278978164150bb5da4df40167b8deade53772dc",
+      "bytes": 683
+    },
+    "generation_config.json": {
+      "sha256": "04bec731bf635b1ef67c561871876852fb254989f32a89b280704c5ef67b87f7",
+      "bytes": 87
+    },
+    "model-00001-of-00004.safetensors": {
+      "sha256": "bd7c36d816eebd43ffdb1d30a867e571af70e2a0d91494695f98cf0c983dbfa1",
+      "bytes": 4976698672
+    },
+    "model-00002-of-00004.safetensors": {
+      "sha256": "b0ebb963a5bc63b0601611234347239226a278e91861cd4ebd2a40affc1e711a",
+      "bytes": 4999802720
+    },
+    "model-00003-of-00004.safetensors": {
+      "sha256": "000eab9d8136a7ecde909b5dbe55262ca1bc570869faf0bc63597a0a1f79dbb7",
+      "bytes": 4915916176
+    },
+    "model-00004-of-00004.safetensors": {
+      "sha256": "16c73d1bbf9ed0b2110f4d7017fe6d39d3bad6774ebaaa8ca42769bf5069d361",
+      "bytes": 1168138808
+    },
+    "model.safetensors.index.json": {
+      "sha256": "560e89ca3d220e7d9b76fbc0749c2b8e67f7fcfae6d34f3a67ea88fcdc2ab6ae",
+      "bytes": 23986
+    },
+    "special_tokens_map.json": {
+      "sha256": "208d307467cabecb563e033fdb478b7c11a1bc6eca9a9c761bf6a303ccfce4c1",
+      "bytes": 439
+    },
+    "tokenizer.json": {
+      "sha256": "3c5cf44023714fb39b05e71e425f8d7b92805ff73f7988b083b8c87f0bf87393",
+      "bytes": 17209961
+    },
+    "tokenizer_config.json": {
+      "sha256": "59706acdfd2b8c5cb3b66ddf1b6e5e07d64ae370799258fb0a6062af78907bed",
+      "bytes": 50593
+    }
+  }
+}
